@@ -1,4 +1,4 @@
-# Python Turtle Programs [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Python Turtle Programs [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)]
 ![](https://visitor-badge.glitch.me/badge?page_id=insanecodes.Python-Turtle-Programs)
 [![Stars](https://img.shields.io/github/stars/insanecodes/Python-Turtle-Programs)](https://github.com/insanecodes/Python-Turtle-Programs)
 [![Forks](https://img.shields.io/github/forks/insanecodes/Python-Turtle-Programs)](https://github.com/insanecodes/Python-Turtle-Programs/fork)
