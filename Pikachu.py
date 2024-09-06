@@ -1,4 +1,3 @@
-#pikachu animation using python-turtle
 import turtle
 def getPosition(x, y):
     turtle.setx(x)
